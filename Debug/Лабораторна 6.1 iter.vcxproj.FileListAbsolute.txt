@@ -1,0 +1,2 @@
+C:\Users\Andriy\source\repos\Лабораторна 6.1 iter\Debug\Лабораторна 6.1 iter.exe
+C:\Users\Andriy\source\repos\Лабораторна 6.1 iter\Debug\Лабораторна 6.1 iter.pdb
